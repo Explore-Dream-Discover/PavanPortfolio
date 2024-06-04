@@ -1,0 +1,4 @@
+gunicorn
+uvicorn
+requests
+Flask
